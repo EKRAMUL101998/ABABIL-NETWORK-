@@ -1,0 +1,3 @@
+module github.com/EKRAMUL101998/ABABIL-NETWORK
+
+go 1.24
