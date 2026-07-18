@@ -7,8 +7,12 @@ ABABIL Network is a blockchain built with the Cosmos SDK.
 - Network Name: ABABIL Network
 - Chain ID: ababil-1
 - Binary: ababild
-- Coin: ABABIL
 - Denom: uababil
+
+## Requirements
+
+- Go 1.26+
+- Git
 
 ## Build
 
@@ -22,7 +26,7 @@ make install
 ababild start
 ```
 
-## GitHub Repository
+## Repository
 
 https://github.com/EKRAMUL101998/ABABIL-NETWORK-
 
